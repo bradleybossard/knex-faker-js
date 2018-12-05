@@ -4,7 +4,8 @@
   "description": "### Links",
   "main": "index.js",
   "dependencies": {
-    "knex": "0.15.2"
+    "knex": "0.15.2",
+    "pg": "7.7.1"
   },
   "devDependencies": {},
   "scripts": {
